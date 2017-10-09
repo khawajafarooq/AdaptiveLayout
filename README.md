@@ -1,4 +1,4 @@
-## LoginAdaptiveLayout
+## Adaptive Layout
 Demonstration of Login/Signup page user interface using Adaptive layout.
 
 ### Resources
